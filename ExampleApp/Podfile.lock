@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (5.0.0)
+  - AppFolder (0.2.0)
+  - Bugsnag (6.4.1)
+  - NextomeLegacy_x86 (1.0.0)
+  - PhoenixSdk_x86 (1.1.6):
+    - Alamofire (= 5.0.0)
+    - AppFolder
+    - Bugsnag
+    - NextomeLegacy_x86
+    - SwiftLocation (~> 4.2.0)
+    - SwiftLog
+    - Zip (~> 2.1)
+  - PKHUD (5.3.0)
+  - SwiftLocation (4.2.0)
+  - SwiftLog (1.0.0)
+  - Toast-Swift (5.0.1)
+  - Zip (2.1.1)
+
+DEPENDENCIES:
+  - NextomeLegacy_x86 (from `../`)
+  - PhoenixSdk_x86 (from `../`)
+  - PKHUD (~> 5.0)
+  - Toast-Swift (~> 5.0.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AppFolder
+    - Bugsnag
+    - PKHUD
+    - SwiftLocation
+    - SwiftLog
+    - Toast-Swift
+    - Zip
+
+EXTERNAL SOURCES:
+  NextomeLegacy_x86:
+    :path: "../"
+  PhoenixSdk_x86:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 58ff2bfb8daaacaa233d5c36e37b10a5248f59b1
+  AppFolder: d10ba19488bd441d60ffcf96eb2ab639a4825231
+  Bugsnag: d0082cc066ae5a8e757ecda8fe51e7581bcf26e8
+  NextomeLegacy_x86: 704e8edb0f26a2ce005a115cf1d3cf08fd9faa7b
+  PhoenixSdk_x86: 6db432bac6ba5acf62b400e0dc7c4743d9385080
+  PKHUD: 98f3e4bc904b9c916f1c5bb6d765365b5357291b
+  SwiftLocation: 609ac8859f2c5d48a6cadd2a58c63b1dae02dc25
+  SwiftLog: f6c4f9a4ade06263555ab34b2c0f72025ffcda9e
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  Zip: 414f59909701fda9a84ab774ebe0f5449b1082cc
+
+PODFILE CHECKSUM: fb3f49e371a12c9af8dd30802b39b7e534243116
+
+COCOAPODS: 1.10.0

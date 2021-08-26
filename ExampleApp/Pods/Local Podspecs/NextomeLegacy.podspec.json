@@ -1,0 +1,23 @@
+{
+  "name": "NextomeLegacy",
+  "version": "1.0.0",
+  "summary": "Old Sdk third party module",
+  "description": "Old Sdk third party module",
+  "homepage": "https://gitlab.com/Nextome/nextome-ios-sdk",
+  "license": {
+    "type": "GPL",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Francesco Paolo Dellaquila": "fp.dellaquila@nextome.com"
+  },
+  "source": {
+    "git": "https://gitlab.com/Nextome/nextome-ios-sdk"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "ios": {
+    "vendored_frameworks": "SDK/arm64/NextomeLegacy/nextomesdklib.framework"
+  }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseUrl</key>
+	<string>http://api.nextome-ext.com/</string>
+	<key>devToken</key>
+	<string>8978cb9e-6835-438a-a2b9-969a8fe45739</string>
+	<key>bundle</key>
+	<string>org.nextome.sdk</string>
+	<key>passkey</key>
+	<string>IKIAw7EFYU9FUFUhyiWhh6y6F9NGpJycFTP+A0lrY+Y=</string>
+	<key>sdkMode</key>
+	<string>BLE</string>
+	<key>enableBinaries</key>
+	<true/>
+	<key>enableParticleEngine</key>
+	<false/>
+	<key>enablePositionLog</key>
+	<true/>
+</dict>
+</plist>

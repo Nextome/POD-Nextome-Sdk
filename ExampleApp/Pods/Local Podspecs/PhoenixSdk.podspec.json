@@ -1,0 +1,46 @@
+{
+  "name": "PhoenixSdk",
+  "version": "1.1.5",
+  "summary": "PhoenixSdk Sdk third party module",
+  "description": "PhoenixSdk Sdk third party module",
+  "homepage": "https://gitlab.com/Nextome/nextome-ios-sdk",
+  "license": {
+    "type": "GPL",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Francesco Paolo Dellaquila": "fp.dellaquila@nextome.com"
+  },
+  "source": {
+    "git": "https://gitlab.com/Nextome/nextome-ios-sdk"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "ios": {
+    "vendored_frameworks": "SDK/arm64/PhoenixSdk/PhoenixSdk.framework"
+  },
+  "dependencies": {
+    "Alamofire": [
+      "5.0.0"
+    ],
+    "Zip": [
+      "~> 2.1"
+    ],
+    "SwiftLocation": [
+      "~> 4.2.0"
+    ],
+    "AppFolder": [
+
+    ],
+    "NextomeLegacy": [
+
+    ],
+    "Bugsnag": [
+
+    ],
+    "SwiftLog": [
+
+    ]
+  }
+}

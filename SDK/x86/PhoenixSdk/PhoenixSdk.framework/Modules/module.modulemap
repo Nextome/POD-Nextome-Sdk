@@ -1,0 +1,11 @@
+framework module PhoenixSdk {
+  umbrella header "PhoenixSdk.h"
+
+  export *
+  module * { export * }
+}
+
+module PhoenixSdk.Swift {
+    header "PhoenixSdk-Swift.h"
+    requires objc
+}
