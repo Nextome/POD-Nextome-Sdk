@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 PhoenixSdk Sdk third party module
                        DESC
 
-  s.homepage         = 'https://gitlab.com/Nextome/nextome-ios-sdk'
+  s.homepage         = 'https://github.com/Nextome/POD-Nextome-Sdk'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'GPL', :file => 'LICENSE' }
   s.author           = { 'Francesco Paolo Dellaquila' => 'fp.dellaquila@nextome.com' }
-  s.source           = { :git => 'https://gitlab.com/Nextome/nextome-ios-sdk' }
+  s.source           = { :git => 'https://github.com/Nextome/POD-Nextome-Sdk' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
