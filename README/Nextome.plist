@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>baseUrl</key>
-	<string>https://api.nextome-ext.com/</string>
+	<string>https://api.nextome-ext.com</string>
 	<key>devToken</key>
 	<string>**dev token**</string>
 	<key>bundle</key>
